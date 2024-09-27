@@ -27,7 +27,6 @@
     "vite": "^5.4.1"
   },
   "workspaces": [
-    "workspace-a",
-    "workspace-b"
+    "src/packags/*"
   ]
 }
